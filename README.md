@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner](./banner.svg)
 
 <!--
 **anusha167/anusha167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
