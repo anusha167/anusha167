@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://anusha167.github.io/animated-banner/">
-    <img src="https://anusha167.github.io/animated-banner/preview.png" alt="banner" width="100%"/>
-  </a>
-</div>
-
+![banner](./header/animated_banner.gif)
 <!--
 **anusha167/anusha167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
