@@ -11,3 +11,15 @@ From building custom valve components, pitching accessible wireframes, to explor
 I’m studying Cognitive Science (Machine Learning & Neural Computation) with a minor in Data Science at UC San Diego because it's the field that rewards interdisciplinary learning.
 
 When it comes down to it, what stays constant about my work is building things that actually matter to people.
+
+---
+
+## Skills
+
+**Languages:** Python · JSON · JavaScript · HTML/CSS
+
+**Frameworks & Tools:** React · Next.js · Node.js · Conda
+
+**Design** Figma · Autodesk Fusion · Siemens UG-NX
+
+**AI/ML:** PyTorch · NumPy · TensorFlow · Pandas
