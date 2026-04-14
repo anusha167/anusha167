@@ -23,3 +23,10 @@ When it comes down to it, what stays constant about my work is building things t
 **Design** Figma · Autodesk Fusion · Siemens UG-NX
 
 **AI/ML:** PyTorch · NumPy · TensorFlow · Pandas
+
+---
+
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anusha__shinde-blue?logo=linkedin)](https://www.linkedin.com/in/anusha-shinde/)
+
