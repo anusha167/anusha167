@@ -27,8 +27,7 @@ When it comes down to it, what stays constant about my work is building things t
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![marimo](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks)
- 
+[![marimo](https://img.shields.io/badge/marimo-6E56CF?logo=marimo&logoColor=white&style=flat)](https://marimo.io) 
 
 **• Design** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=flat&logo=autodesk&logoColor=white)
